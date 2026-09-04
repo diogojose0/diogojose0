@@ -3,7 +3,7 @@
 <h3 align="center">Final-Year Computer Engineering Student</h3>
 
 <p align="center">
-  💻 Software Development &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🌐 Web Development &nbsp;|&nbsp; 🚀 Seeking an Internship
+  💻 Software Development &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🌐 Web Development &nbsp;
 </p>
 
 <p align="center">
