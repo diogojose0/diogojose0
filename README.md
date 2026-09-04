@@ -3,7 +3,7 @@
 <h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
-  💻 Software Development &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🌐 Web Development &nbsp;
+  💻 Software Development &nbsp;|&nbsp; ☕ Java & C &nbsp;|&nbsp; 🌐 Web Development &nbsp;|&nbsp; 🗄️ SQL & Databases
 </p>
 
 <p align="center">
@@ -22,14 +22,14 @@
   <img src="https://img.shields.io/badge/GOAL-INTERNSHIP-2EA043?style=for-the-badge" />
 </p>
 
--  Final-year **Computer Engineering student**
--  Looking for a **software development internship**
--  Interested in **backend and full-stack development**
--  Building projects with **Java, JavaScript and TypeScript**
--  Experience with **Angular, Node.js, Express and REST APIs** through academic projects
--  Experience working with **MongoDB**
--  Interested in **object-oriented programming, data structures and algorithms**
--  Looking forward to gaining real-world development experience and learning within a professional team
+- Final-year **Computer Engineering student**
+- Looking for a **software development internship**
+- Interested in **backend and full-stack development**
+- Building projects with **Java, C, JavaScript and TypeScript**
+- Experience with **Angular, Node.js, Express and REST APIs** through academic projects
+- Experience working with **SQL, relational and non-relational databases**
+- Interested in **object-oriented programming, data structures and algorithms**
+- Looking forward to gaining real-world development experience and learning within a professional team
 
 ---
 
@@ -39,6 +39,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -55,10 +56,18 @@
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
 </p>
 
-### Databases & Tools
+### Databases
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RELATIONAL%20DATABASES-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NON--RELATIONAL%20DATABASES-47A248?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
