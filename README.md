@@ -14,13 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-FINAL%20YEAR-2F81F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-6E40C9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GOAL-INTERNSHIP-2EA043?style=for-the-badge" />
-</p>
+## About Me
 
 - Final-year **Computer Engineering student**
 - Looking for a **software development internship**
@@ -33,21 +27,7 @@
 
 ---
 
-## ⚙️ Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
-</p>
-
----
-
-## 💼 Academic Projects
+## Academic Projects
 
 ### 🔹 [PAW Marketplace — Backend](https://github.com/diogojose0/PAW)
 
@@ -73,7 +53,21 @@
 
 ---
 
-## 📫 Contact
+## ⚙️ Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+## Contact
 
 <p align="center">
 
