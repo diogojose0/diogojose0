@@ -1,6 +1,6 @@
-<h1 align="center">Diogo 👨‍💻</h1>
+<h1 align="center">Diogo José</h1>
 
-<h3 align="center">Final-Year Computer Engineering Student</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
   💻 Software Development &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🌐 Web Development &nbsp;
@@ -22,14 +22,14 @@
   <img src="https://img.shields.io/badge/GOAL-INTERNSHIP-2EA043?style=for-the-badge" />
 </p>
 
-- 🎓 Final-year **Computer Engineering student**
-- 🔎 Looking for a **software development internship**
-- 💻 Interested in **backend and full-stack development**
-- ☕ Building projects with **Java, JavaScript and TypeScript**
-- 🌐 Experience with **Angular, Node.js, Express and REST APIs** through academic projects
-- 🗄️ Experience working with **MongoDB**
-- 🧠 Interested in **object-oriented programming, data structures and algorithms**
-- 🚀 Looking forward to gaining real-world development experience and learning within a professional team
+-  Final-year **Computer Engineering student**
+-  Looking for a **software development internship**
+-  Interested in **backend and full-stack development**
+-  Building projects with **Java, JavaScript and TypeScript**
+-  Experience with **Angular, Node.js, Express and REST APIs** through academic projects
+-  Experience working with **MongoDB**
+-  Interested in **object-oriented programming, data structures and algorithms**
+-  Looking forward to gaining real-world development experience and learning within a professional team
 
 ---
 
@@ -73,13 +73,6 @@
 
 **Backend and REST API for a supermarket marketplace**
 
-- Authentication and authorization
-- Product and category management
-- Orders and deliveries
-- Product reviews
-- Stripe checkout integration
-- Email notifications
-
 `Node.js` `Express` `MongoDB` `JWT` `REST API` `Stripe`
 
 <br>
@@ -88,15 +81,6 @@
 
 **Angular frontend for the PAW Marketplace**
 
-- Product catalogue
-- Authentication
-- Shopping cart
-- Checkout
-- Order management
-- Product reviews
-- Price comparison
-- Integration with the PAW REST API
-
 `Angular` `TypeScript` `Bootstrap` `REST API`
 
 <br>
@@ -104,15 +88,6 @@
 ### 🔹 [Project ED — Maze Game](https://github.com/diogojose0/Project-ED)
 
 **Java project focused on data structures and object-oriented programming**
-
-- Custom data structures
-- Graph-based maze representation
-- Maze creation and loading
-- Turn-based gameplay
-- Mini-games and events
-- Replay system
-- JSON persistence
-- Unit testing
 
 `Java` `Gradle` `JUnit` `Data Structures` `Graphs`
 
@@ -130,10 +105,6 @@
 ## 📫 Connect with Me
 
 <p align="center">
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
   <a href="https://github.com/diogojose0">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
