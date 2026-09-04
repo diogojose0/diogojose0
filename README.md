@@ -19,7 +19,7 @@
 - Final-year **Computer Engineering student**
 - Looking for a **software development internship**
 - Interested in **backend and full-stack development**
-- Building projects with **Java, C, JavaScript and TypeScript**
+- Experience building projects with **Java, C, JavaScript and TypeScript**
 - Experience with **Angular, Node.js, Express and REST APIs** through academic projects
 - Experience working with **SQL, relational and non-relational databases**
 - Interested in **object-oriented programming, data structures and algorithms**
@@ -63,6 +63,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
